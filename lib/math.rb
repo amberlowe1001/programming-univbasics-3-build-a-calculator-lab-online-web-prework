@@ -1,6 +1,11 @@
-def addition(num1 + num2)
+def addition =(num1 + num2)
+  puts "Enter_first_number"
+num1 =gets.chomp()
+puts "Enter opperator:"
+op =gets.chomp()
+puts"Enter in second:"
 
-end
+end["wow", "I","am","really,"learning","arrays"]]
 
 def subtraction(num1 - num2)
 
