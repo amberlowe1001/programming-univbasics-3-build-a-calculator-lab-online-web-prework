@@ -10,9 +10,8 @@ return = num1 + num2
   end
 end
 
-end["wow", "I","am","really,"learning","arrays"]]
 
-def subtraction(num1 - num2)
+def subtraction =(num1[] - num2)
 
 end
 
