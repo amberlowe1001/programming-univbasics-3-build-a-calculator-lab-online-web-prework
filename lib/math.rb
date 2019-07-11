@@ -1,8 +1,15 @@
-def addition(num1 + num2)
+math.class
 
+def addition =(num1[5] + num2[4])
+  puts = addition
+  gets.comp()
+  
+return 
+  end
 end
 
-def subtraction(num1 - num2)
+
+def subtraction =(num1[] - num2)
 
 end
 
