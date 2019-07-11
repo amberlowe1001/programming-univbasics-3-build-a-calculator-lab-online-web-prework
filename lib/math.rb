@@ -1,12 +1,10 @@
 math.class
 
-def addition =(num1 + num2)
-  puts "Enter_first_number"
-num1 =gets.chomp()
-puts "Enter opperator:"
-op =gets.chomp(+)
-puts"Enter in second:"
-return = num1 + num2
+def addition =(num1[5] + num2[4])
+  puts = addition
+  gets.comp()
+  
+return 
   end
 end
 
