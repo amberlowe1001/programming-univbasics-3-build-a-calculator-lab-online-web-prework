@@ -4,8 +4,11 @@ def addition =(num1 + num2)
   puts "Enter_first_number"
 num1 =gets.chomp()
 puts "Enter opperator:"
-op =gets.chomp()
+op =gets.chomp(+)
 puts"Enter in second:"
+return = num1 + num2
+  end
+end
 
 end["wow", "I","am","really,"learning","arrays"]]
 
