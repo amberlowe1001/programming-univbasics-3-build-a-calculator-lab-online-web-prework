@@ -1,3 +1,5 @@
+math.class
+
 def addition =(num1 + num2)
   puts "Enter_first_number"
 num1 =gets.chomp()
